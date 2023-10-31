@@ -1,5 +1,13 @@
 # @effect/schema
 
+## 0.46.4
+
+### Patch Changes
+
+- [#532](https://github.com/Effect-TS/schema/pull/532) [`1e115af`](https://github.com/Effect-TS/schema/commit/1e115afab16c79841f683f73b51357805d8bf39e) Thanks [@gcanti](https://github.com/gcanti)! - Arbitrary: add BigIntConstraints support
+
+- [#530](https://github.com/Effect-TS/schema/pull/530) [`23b1e1c`](https://github.com/Effect-TS/schema/commit/23b1e1cded1aa95224555fadcae8de9ab7bc1fdb) Thanks [@gcanti](https://github.com/gcanti)! - Arbitrary: merge ArrayConstraints
+
 ## 0.46.3
 
 ### Patch Changes
